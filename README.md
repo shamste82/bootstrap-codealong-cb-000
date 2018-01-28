@@ -13,3 +13,6 @@ Finally, because this is a simple code-along, you won't actually have to submit 
 (And yes, we'll be updating the video ASAP!)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-codealong' title='Bootstrap Code-Along'>Bootstrap Code-Along</a> on Learn.co and start learning to code for free.</p>
+
+# Exceptional Realty Bootstrap Version 4.0
+This is an example website using twitter bootstrap 4.0.
